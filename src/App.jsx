@@ -1,8 +1,9 @@
+import Header from './components/Header';
+
 function App() {
   return (
     <>
-      <h1>Under Construction</h1>
-      <p>Coming Soon!</p>
+      <Header />
     </>
   );
 }
